@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/windows-10-ps2-activator.svg)
 
 # windows-10-ps2-activator
-It solve the problem with ps2 device on windows 10.
+It solve the problem with ps2 device on windows 10
 
 ## How to Use
 Download this repository and run ``windows_10_ps2_activator.bat`` in adminstrator.
